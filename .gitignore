@@ -52,11 +52,13 @@ examples/output/
 output*/
 data/
 
-# Miscellaneous
+# Local files
 .DS_Store
 TODO.md
 ignore_this.txt
 *.ignore.*
+storages/
+
 
 # Project-specific files
 dickens*/
